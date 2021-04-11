@@ -5,7 +5,7 @@ menu0_title="配置扩展环境  ShadowSocks 搭建Web环境"
 # 菜单页面排序：空格隔开
 menu_title1="配置扩展环境 锐捷认证 Wifidog"
 menu_title2="SS配置 SS节点 ss_tproxy"
-menu_title5="v2ray  chinadns chinadns_ng 假装在中国 家庭云提速 filemanager verysync clash"
+menu_title5="v2ray  chinadns chinadns_ng clash"
 ################################
 menu_title_all="$menu_title1 $menu_title2 $menu_title3 $menu_title4 $menu_title5"
 source /etc/storage/script/init.sh
